@@ -1,4 +1,6 @@
-# 🚀 AI Marketing Automation Platform
+# 🚀 MarketMate - AI Marketing Automation Platform
+
+> **Built for the NVIDIA Hackathon** 🎯
 
 A comprehensive marketing automation platform that combines AI-powered content generation, website visitor tracking, social media management, and multi-channel campaign management.
 
@@ -73,8 +75,8 @@ frontend/
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd ai-marketing-platform
+git clone https://github.com/SSIDDIQUE2k/MarketMate.git
+cd MarketMate
 ```
 
 2. **Set up the backend**
@@ -380,18 +382,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 For support and questions:
-- 📧 Email: support@aimarketingplatform.com
-- 📖 Documentation: [docs.aimarketingplatform.com](https://docs.aimarketingplatform.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/issues)
+- 📧 Email: support@marketmate.com
+- 📖 Documentation: [View API Docs](http://localhost:8000/docs)
+- 🐛 Issues: [GitHub Issues](https://github.com/SSIDDIQUE2k/MarketMate/issues)
 
 ## 🎉 Acknowledgments
 
-- OpenAI for GPT-4 API
-- FastAPI for the excellent web framework
-- React team for the frontend framework
-- PostgreSQL for reliable data storage
+- **NVIDIA** for hosting the hackathon and providing the opportunity to build this platform
+- **OpenAI** for GPT-4 API
+- **FastAPI** for the excellent web framework
+- **React** team for the frontend framework
+- **PostgreSQL** for reliable data storage
 - All the amazing open-source libraries that make this possible
 
 ---
 
-**Built with ❤️ for modern marketing teams** 
+**Built with ❤️ for the NVIDIA Hackathon by SSIDDIQUE2k**
+
+*MarketMate - Empowering businesses with AI-driven marketing automation* 🚀
